@@ -1,3 +1,5 @@
-<h1 align="center"> ProyectoDPS </h1>
-# Descripción
-# 
+<h1 align="center"> PROYECTODPS </h1>
+# DESCRIPCIÓN
+# COMO USAR EL PROYECTO
+# MOCKUPS
+# LICENCIA DEL PROYECTO
