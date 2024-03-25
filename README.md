@@ -41,7 +41,7 @@ Permitir que la constructora pueda manejar y clasificar sus proyectos y document
 <h2>📕 Licencias</h2>
 <h3>Restricciones de Usos</h3>
 
-![by-nc-nd](http://creativecommons.org/licenses/by-nc-nd/4.0/)
+![by-nc-nd](https://github-production-user-asset-6210df.s3.amazonaws.com/107637104/315911890-75819e16-1bb7-44a5-8e1d-612bc3e0ea9d.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240325%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240325T055850Z&X-Amz-Expires=300&X-Amz-Signature=cfa4e268dcb0c263aa35c3d29396039fe070debb41c58bace993892bad191a6e&X-Amz-SignedHeaders=host&actor_id=132143223&key_id=0&repo_id=775078156)
 
 
 La Aplicación Móvil de Manejo de Documentos está bajo la licencia de CC BY 4.0 DEED, te recomendamos que leas las politicas y condiciones que la licencia ofrece. Si ves interesante este proyecto deberías consider las licencias que tenemos.
