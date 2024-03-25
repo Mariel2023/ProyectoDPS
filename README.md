@@ -15,7 +15,7 @@ Hola amigo, ¡Bienvenido al respositorio de desarrollo de la Aplicación Móvil 
      </tr>
     <tr align="center">
     <td><br> :computer: :art: :bulb:</td>
-    <td><br> :computer: art: :bulb:</td>
+   <td><br> :computer: :art: :bulb:</td>
     <td><br>:computer: :art: :bulb:</td>
     <td><br> :computer: :art: :bulb:</td>
   </tr>
@@ -28,4 +28,25 @@ Es una aplicación móvil para que una constructura pueda manejar los documentos
 
 <h2>:dart: Nuestro Objetivo</h2>
 
-Permitir que la constructora pueda manejar y clasificar sus proyectos y documentos de una manera más organizada creando así también un respaldo de dichos documentos
+Permitir que la constructora pueda manejar y clasificar sus proyectos y documentos de una manera más organizada creando así también un respaldo de dichos documentos.
+
+<h2>:open_file_folder: Archivos importantes </h2>
+
+> Enlace de lo Diseño de los Mockup's 🎨<br>
+
+> Pefil del proyecto PDF 📖
+
+> Enlace a Trello 🤝🏼✔
+
+<h2>📕 Licencias</h2>
+<h3>Restricciones de Usos</h3>
+
+![by-nc-nd](http://creativecommons.org/licenses/by-nc-nd/4.0/)
+
+
+La Aplicación Móvil de Manejo de Documentos está bajo la licencia de CC BY 4.0 DEED, te recomendamos que leas las politicas y condiciones que la licencia ofrece. Si ves interesante este proyecto deberías consider las licencias que tenemos.
+
+
+
+> [!CAUTION]
+> Recuerda siempre hacer referencia a los creadores de este proyecto.
